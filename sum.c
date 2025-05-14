@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    int add = 3 + 9;
+    int add = 3 + 1;
     printf("%d\n", add);
 }
